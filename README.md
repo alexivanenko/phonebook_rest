@@ -2,12 +2,12 @@
 
 ### Requirements
 
-PHP >= 7.1; Phalcon >= 3.4.*
+PHP >= 7.1; Phalcon >= 3.4.*; MySQL >= 5.5.
 
 ### Installation
 
 1. Install Phalcon Framework - https://phalconphp.com/en/
-2. Clone this repository ```$ gir clone https://github.com/alexivanenko/phonebook_rest```
+2. Clone this repository ```$ git clone https://github.com/alexivanenko/phonebook_rest```
 3. Go to your working directory. 
 4. Run ```$ composer install```
 5. Create new **MySQL DB**.
